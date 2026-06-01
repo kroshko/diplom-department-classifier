@@ -1,4 +1,5 @@
 # Прогнозирование выбора кафедры студентами ИТММ
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kroshko/diplom-department-classifier/blob/main/main.ipynb)
 
 ## Описание задачи
 
